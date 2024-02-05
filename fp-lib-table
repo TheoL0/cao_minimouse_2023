@@ -4,4 +4,5 @@
   (lib (name "62201021121")(type "KiCad")(uri "${KIPRJMOD}/62201021121.pretty")(options "")(descr ""))
   (lib (name "STSPIN240")(type "KiCad")(uri "${KIPRJMOD}/STSPIN240.pretty")(options "")(descr ""))
   (lib (name "STM32F303CBT6")(type "KiCad")(uri "${KIPRJMOD}/STM32F303CBT6.pretty")(options "")(descr ""))
+  (lib (name "LSM6DSO32")(type "KiCad")(uri "${KIPRJMOD}/LSM6DSO32.pretty")(options "")(descr ""))
 )
